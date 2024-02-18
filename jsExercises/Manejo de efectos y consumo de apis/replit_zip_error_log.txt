@@ -1,0 +1,20 @@
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file .cache/replit/modules/replit:v5-20240209-9e3a339","time":"2024-02-18T06:31:56Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file .cache/typescript/4.8/node_modules/.bin/parser","time":"2024-02-18T06:31:56Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/browserslist","time":"2024-02-18T06:31:57Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/browserslist-lint","time":"2024-02-18T06:31:57Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/esbuild","time":"2024-02-18T06:31:57Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/jsesc","time":"2024-02-18T06:31:57Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/json5","time":"2024-02-18T06:31:57Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/loose-envify","time":"2024-02-18T06:31:57Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/nanoid","time":"2024-02-18T06:31:57Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/parser","time":"2024-02-18T06:31:57Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/resolve","time":"2024-02-18T06:31:57Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/rollup","time":"2024-02-18T06:31:57Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/semver","time":"2024-02-18T06:31:57Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/tsc","time":"2024-02-18T06:31:57Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/tsserver","time":"2024-02-18T06:31:57Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/vite","time":"2024-02-18T06:31:57Z"}
+{"error":"read /home/runner/Manejo-de-efectos-y-consumo-de-apis-rodubat/node_modules/typescript/lib/tsserverlibrary.js: input/output error","level":"error","msg":"unable to write file node_modules/typescript/lib/tsserverlibrary.js","time":"2024-02-18T06:32:03Z"}
+{"error":"read /home/runner/Manejo-de-efectos-y-consumo-de-apis-rodubat/node_modules/typescript/lib/typescript.js: input/output error","level":"error","msg":"unable to write file node_modules/typescript/lib/typescript.js","time":"2024-02-18T06:32:03Z"}
+{"error":"read /home/runner/Manejo-de-efectos-y-consumo-de-apis-rodubat/node_modules/typescript/lib/typescriptServices.js: input/output error","level":"error","msg":"unable to write file node_modules/typescript/lib/typescriptServices.js","time":"2024-02-18T06:32:03Z"}
+{"error":"read /home/runner/Manejo-de-efectos-y-consumo-de-apis-rodubat/node_modules/typescript/lib/typingsInstaller.js: input/output error","level":"error","msg":"unable to write file node_modules/typescript/lib/typingsInstaller.js","time":"2024-02-18T06:32:03Z"}
